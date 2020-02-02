@@ -1,0 +1,4 @@
+1) code should be pushed after every task
+2) if task is in progress but due date not mentioned
+3) code should be pushed before leaving office
+4) if task is assigned but not cleared within an hour...
